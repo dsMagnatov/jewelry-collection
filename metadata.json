@@ -1,0 +1,6 @@
+{
+  "name": "Scroll Video Background",
+  "description": "A single-screen website with a scroll-driven background video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
